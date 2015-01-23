@@ -1,0 +1,14 @@
+.jumbotron{
+	background-image: url("../images/upfeathers.png");
+	background-attachment: fixed;
+	min-height: 350px;
+	margin-bottom: 0px;
+}
+
+.services{
+	background: #FFFAE6;
+}
+
+.padding{
+	padding:20px;
+}
